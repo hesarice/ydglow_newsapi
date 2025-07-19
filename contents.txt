@@ -1,206 +1,152 @@
 [
     {
-        "url": "https://bbs.hupu.com/629029095.html",
-        "title": "CBA外籍球员注册信息更新：同曦取消注册考利-斯坦和穆迪",
-        "content": "新闻概括：近日，CBA官网更新了外籍球员注册信息，南京男篮取消了外援威利-考利-斯坦和斯特凡-穆迪的注册。据报导，南京男篮与斯特凡-穆迪正式终止合同，并签约了新的外援乔丹-弗洛伊德。考利-斯坦和穆迪的离队引发了球迷们的讨论，有人质疑CBA的入职体检流程，认为部分中途加入的外援可能没有经历严格的体检。同时，有讨论提到根据一些视频显示，一些外援刚到机场就签约，似乎没有经过体检和试训过程。目前尚未确认这一情况的准确性。此外，关于南京男篮的新外援和球队管理层的相关情况也引起了人们的关注。",
-        "image": "https://i3.hoopchina.com.cn/news-editor/2024-11-20/17-49-17/1352b7f4-7e57-409d-9cb5-a6d9a084abef.jpeg?x-oss-process=image/resize,w_800/format,webp"
+        "url": "https://bbs.hupu.com/633837937.html",
+        "title": "[流言板]霍楠：中国篮球缺后卫，教练在身高门槛上设立太高",
+        "content": "新闻概括：四川男篮副总经理霍楠在社媒谈论到矮个子能否打职业的问题，他提到中国篮球缺后卫，但教练在身高门槛上设立太高。霍楠表示，不是歧视小个子球员，而是不会培养。此新闻在虎扑社区引起热议，涉及到中国篮球的培养问题，特别是后卫线的发展。新闻还提到女篮的一些情况，如宫鲁鸣希望张茹能够代替李梦的作用，但前锋存在的问题以及后卫的培养问题也被提出。",
+        "image": "https://i1.hoopchina.com.cn/newsPost/1735032169938_o_w_102_h_103_744cf886.jpg?x-oss-process=image/resize,w_800/format,webp"
     },
     {
-        "url": "https://www.dongqiudi.com/articles/4694209.html",
-        "title": "法国第一家族将与红牛入股巴黎FC，克洛普也将参与合作",
-        "content": "法国第一家族将与红牛合作入股巴黎FC足球俱乐部。克洛普也将参与此次合作。本次报道严禁商业机构或公司转载，球迷转载请注明来源为“懂球帝”。新闻主要内容为关于巴黎FC足球俱乐部的新合作动态。",
-        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/CF/E4/rBUBsmc-59SADGS7AAGchAenR04062.jpg"
+        "url": "https://www.dongqiudi.com/articles/5249685.html",
+        "title": "HWG！罗马诺：拉什福德将租借加盟巴萨，含买断条款",
+        "content": "新闻概括：知名转会专家罗马诺消息，拉什福德将租借加盟巴塞罗那足球俱乐部，并含有买断条款。拉什福德的加盟引起了球迷的广泛讨论。一些球迷对拉什福德的离开感到失望，认为他在曼联的经历起伏不定。然而，也有球迷希望他能在巴塞罗那找回状态并证明自己的能力。此外，拉什福德的加盟也将为巴塞罗那带来国际影响力，并可能进一步拉动球衣销量。",
+        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/88/D1/rBUC6Gh7pp2AWRjtAAgyh0brmhE275.jpg?watermark/1/image/aHR0cDovL2ltZzEuZG9uZ3FpdWRpLmNvbS9mYXN0ZGZzMi9NMDAvMkEvRTIvQ2hPcU0xb1MtZVdBUERxM0FBQkE1VWdyQlQ4MTQyLnBuZw==/dissolve/100/ws/0.045"
     },
     {
-        "url": "https://sports.sina.com.cn/china/national/2024-11-15/doc-incwaauh0957678.shtml",
-        "title": "世预赛-张玉宁90分钟反上演绝杀 国足1-0巴林",
-        "content": "新闻概括：中国男足在客场对战巴林男足的世预赛亚洲区第三阶段比赛中，张玉宁在比赛最后阶段反绝杀，打进关键一球，帮助中国队以1-0战胜巴林队。上半场张玉宁错失单刀机会，李磊受伤离场，下半场有球员进球因越位被吹。最终，中国队的积分上升，超越印尼和巴林升至小组第四名。",
-        "image": "//k.sinaimg.cn/n/sports/transform/324/w650h474/20241115/fae9-2e7127994265357b9a2683ff51ec93bf.png/w700d1q75cms.jpg?by=cms_fixed_width"
+        "url": "https://sports.ifeng.com/c/8l7Q9CSyBkg",
+        "title": "智勇风暴来袭，2025云顶碗世界高校腰旗橄榄球公开赛将在崇礼开战",
+        "content": "智勇风暴来袭，2025云顶碗世界高校腰旗橄榄球公开赛将于2025年7月26日在中国张家口崇礼的云顶橄榄球公园开战。比赛汇聚全球高校青年精英，包括中国顶尖高校和由美国四所知名大学组成的联队。赛事以“Pull it real ‘腰’动真格”为口号，展现年轻人渴望表达、敢于突破的精神。比赛场地云顶橄榄球公园曾是2022年北京冬奥会的荣耀赛场，如今成为夏季避暑休闲胜地。腰旗橄榄球作为新兴运动，强调快速反应与战术协同，降低了受伤风险。本届云顶碗采用五人制混合赛制，强化融合与团队协作精神。同时，赛事得到了多个合作伙伴的支持。这是青春、活力、潮流的体育盛事，为崇礼的未来注入无限想象。",
+        "image": "//x0.ifengimg.com/ucms/2025_29/DC36A6B38320AD78919E18B818456335774919E2_size176_w951_h535.jpg"
     },
     {
-        "url": "https://sports.ifeng.com/c/8egmpmmf6HP",
-        "title": "爆冷！世界第一孙颖莎被淘汰",
-        "content": "孙颖莎在WTT总决赛女子单打比赛中遭遇世界排名第7的陈幸同，结果以2比3的比分被逆转。世界排名第一的孙颖莎止步于女单16强，而陈幸同则成功晋级八强。",
-        "image": "//x0.ifengimg.com/ucms/2024_47/6301B3D5FB1DF2401C5BD9819F9574AE46D7618B_size173_w772_h387.jpg"
+        "url": "https://bbs.hupu.com/633836930.html",
+        "title": "方硕社媒晒观战中超京沪大战Vlog：相信还能重回榜首",
+        "content": "概括：方硕在社交媒体上晒出观战中超京沪大战的Vlog，表示相信球队能够重回榜首。该新闻在虎扑社区引起热议，有评论指出足篮球联动的效果以及球队的表现。此外，还有其他关于CBA和中国足球的新闻在虎扑社区中讨论。",
+        "image": "https://i5.hoopchina.com.cn/hupuapp/bbs/268/27421268/thread_27421268_20220317112134_s_101479_w_855_h_861_74144.jpg?x-oss-process=image/resize,w_225/qulity,Q_60"
     },
     {
-        "url": "https://www.sohu.com/a/828730000_114977",
-        "title": "WTT福冈总决赛：国乒男队四战全败 孙颖莎/王艺迪负日本组合",
-        "content": "新闻概括：在WTT福冈总决赛中，国乒男队在单双打中遭遇四战全败，女双首轮孙颖莎/王艺迪不敌日本削球组合。男单和女单的首轮比赛中，虽然有一些选手赢得胜利，但也有选手遭遇了挑战。此外，在男女双打的1/4决赛中，国乒队伍也面临着失利的结果。",
-        "image": "//q7.itc.cn/q_70,c_lfill,w_140,h_140,g_face/images03/20240730/a91d2d3b3aea448e894e9a1bfb1b24b1.jpeg"
+        "url": "https://bbs.hupu.com/633836380.html",
+        "title": "[流言板]日本女篮主帅：即便事情很糟糕我冲田中心吼，她还是很冷静",
+        "content": "新闻内容概括：\n\n在女篮亚洲杯半决赛中，中国女篮81-90不敌日本女篮。赛后，日本主帅盖恩斯称赞了日本女篮球员田中心，表示她非常冷静，即使事情很糟糕，在被冲吼时依然保持面无表情，并认为她未来会越来越好。中国女篮在比赛中表现不佳，教练和球员都受到批评。同时，有讨论指出中国女篮应该提前培养年轻球员，而不是等到青黄不接时才被动换血。另外，中国球迷对日本女篮的球员和战术布置进行了讨论。",
+        "image": "https://i1.hoopchina.com.cn/news-editor/538fd438cf443adb97d84cab6531b673_w_607_h_425_.png?x-oss-process=image/resize,w_800/format,webp"
     },
     {
-        "url": "https://bbs.hupu.com/629043716.html",
-        "title": "张子宇12分钟15投全中砍下30分，山东轻取吉林",
-        "content": "新闻概括：\n\n在最近结束的全国青少年三大球运动会女篮揭幕战中，张子宇表现出色，所代表的山东青年队以116-45大胜吉林青年队。张子宇在短短的12分钟内，投篮15次全部命中，砍下30分，并贡献6个篮板和5个盖帽。她的出色表现为山东队赢得了开门红。接下来，山东女篮青年队将在晚上20点迎战B组的第二个对手陕西。这场比赛的讨论在虎扑社区引起了广泛关注，网友们纷纷发表评论，对张子宇的表现表示惊叹。",
-        "image": "https://i3.hoopchina.com.cn/news-editor/2024-11-21/15-35-21/0ea141bf-464e-4f34-ab3f-df2cbcc500d9.jpeg?x-oss-process=image/resize,w_800/format,webp"
+        "url": "https://bbs.hupu.com/633823056.html",
+        "title": "河村永辉今日夏联20+10表现亮眼,你认为他下赛季能否继续征战NBA?",
+        "content": "河村永辉在夏季联赛中表现出色，全场得到20分4板10助2断，发挥出色。他攻防两端都展现出了影响力，场均获得9.6分2.4板6.6助。尽管他的防守端存在不足，但他在进攻端的技术和得分能力得到了认可。然而，对于他下赛季是否能继续征战NBA，存在争议。一些人认为他的身高和防守限制了他的上限，而另一些人则认为他有一定的实力，大局观和球商都不错，也有一定投射能力。总体而言，河村永辉在夏季联赛中的表现令人印象深刻，但他在NBA的未来仍然存在一定的不确定性。",
+        "image": "https://i5.hoopchina.com.cn/editor/aa931c622e7b9077b35c09620f5ce57c_w_1414_h_921_.png?x-oss-process=image/resize,w_800/format,webp"
     },
     {
-        "url": "https://bbs.hupu.com/629037653.html",
-        "title": "Shams：乔治左膝过度伸展提前离场，一个月前同样遭遇该伤病",
-        "content": "新闻概括：保罗·乔治在NBA常规赛76人对阵灰熊的比赛中，因左膝过度伸展而受伤离场。据Shams报道，乔治的伤势严重到本场比赛不会回归，且一个月前他就遭遇过类似的伤病。乔治的受伤引发了球迷和网友的广泛讨论，有人认为他的膝盖伤势是由于球队战术混乱导致的，还有人质疑他的球风和心态是否适合争冠球队。此外，关于纳斯教练的评论也引发了争议。",
-        "image": "https://i11.hoopchina.com.cn/news-editor/2024-11-21/10-18-58/da9162d8-8270-4d69-8406-ca390eb50a4c.gif?x-oss-process=image/resize,w_800/format,webp"
+        "url": "https://bbs.hupu.com/633826400.html",
+        "title": "湖人夏联最佳球员！你如何展望布朗尼-詹姆斯的下赛季？",
+        "content": "新闻概括：\n\n布朗尼·詹姆斯在NBA夏季联赛中表现出色，获得湖人夏联最佳球员的赞誉。他在最近几场比赛中表现出稳定的得分能力和防守强度，尽管他是二轮末新秀，并且曾经遭遇心脏骤停和膝盖半月板手术，但他凭借自己的努力和父亲的知名度，为湖人队带来了商业价值。布朗尼在湖人队内的角色和未来发展受到球迷的关注和讨论，有人认为他有望成为合格的轮换球员，但也有人对他的表现持怀疑态度。此外，布朗尼的篮球态度和努力精神也受到了球迷的赞赏。",
+        "image": "https://i3.hoopchina.com.cn/editor/9fe0156ad97197f00131114e0905aaa8_w_660_h_825_.jpeg?x-oss-process=image/resize,w_800/format,webp"
     },
     {
-        "url": "https://bbs.hupu.com/629030695.html",
-        "title": "[卧谈会]一人说一个，你听过的最奇葩的绰号是什么？-步行街主干道-虎扑社区",
-        "content": "新闻概括：\n\n这篇新闻是一个关于“卧谈会”的专题，主题是询问网友们听过的最奇葩的绰号是什么。内容涵盖了各种网友分享的奇特绰号故事，如关于教导主任因秃顶和长相被戏称为“秃驴主任”，有同学因名字或行为特点被赋予特殊绰号等。还有一些游戏ID和昵称也被提及。网友们在分享自己的经历之余，也勾起了其他网友的回忆。此新闻为读者提供了一个有趣的社交话题视角，展现了人们日常生活中的多样性和创造力。",
-        "image": "https://i11.hoopchina.com.cn/editor/f7063c0e47f55160ca88d2e1be502d9c.jpeg?x-oss-process=image/resize,w_800/format,webp"
+        "url": "https://bbs.hupu.com/633824918.html",
+        "title": "[流言板]医学专家：布朗尼越来越适应比赛，展现出心脏手术前的天赋-NBA新闻-虎扑社区",
+        "content": "概括：\n\n布朗尼-詹姆斯近期在夏季联赛中表现出色，医学专家Dr. Rajpal Brar称赞他越来越适应比赛，并展现出心脏手术前的天赋。布朗尼在最近3场夏季联赛中场均得到16.3分2.7篮板4.3助攻，显示了他的高球商和努力工作。专家还提到布朗尼的身高可能是其成为球星的障碍，但强调了他在防守和空位投篮方面的能力。布朗尼的表现得到了许多评论和支持，尽管也有人对其未来持保留态度。",
+        "image": "https://i1.hoopchina.com.cn/news-editor/803b3e82c570bfa8bd4e241523878a6a_w_900_h_506_.jpeg?x-oss-process=image/resize,w_800/format,webp"
     },
     {
-        "url": "https://bbs.hupu.com/629030842.html",
-        "title": "中国男篮对阵关岛12人名单出炉：张宁入选，徐杰杜润旺无缘",
-        "content": "中国男篮对阵关岛的12人名单已经公布，包括后卫高诗岩、胡明轩、廖三宁、王岚嵚、程帅澎，锋线张宁、朱俊龙、曾凡博、付豪，以及内线胡金秋、杨瀚森、余嘉豪。名单中未包括徐杰和杜润旺，网友对名单的讨论涉及多个方面，包括球员的选择、阵容搭配、以及球队的未来展望等。部分网友对名单持支持态度，认为这已经是目前最好的选择；也有网友提出质疑，认为名单中有些球员的入选存在争议，并期待年轻球员的进一步发展。此外，也有网友对球队的表现和归化问题提出了自己的看法。整体上，网友对名单的讨论反映了球迷对球队表现的关注和期待。",
-        "image": "https://i3.hoopchina.com.cn/news-editor/2024-11-20/20-29-20/a45a1033-6742-46ed-aada-e7093508df80.jpeg?x-oss-process=image/resize,w_800/format,webp"
+        "url": "https://bbs.hupu.com/633825307.html",
+        "title": "[流言板]奥尼尔：真希望我还在打球，我会幻想若我对位约基奇会怎样-NBA新闻-虎扑社区",
+        "content": "这篇新闻内容非常冗长，包含了大量的新闻标题、评论、回复、用户头像、导航栏等冗余信息。以下是我根据新闻内容提供的概括总结：\n\n新闻标题：奥尼尔希望仍在打球，幻想与约基奇对位\n\n新闻内容：近日，NBA名宿沙奎尔-奥尼尔做客《Off The Record》节目，谈到了掘金球员尼古拉-约基奇。奥尼尔表示，尽管他现在不是球员了，但会幻想如果他对位约基奇会怎样的情景。他认为约基奇在低位表现非常棒，但自己作为奥尼尔，会想“约基奇又能做什么呢？”就像理发店里的人会有这样的谈话，他们会谈论他和约基奇，笑着说一些话题。\n\n新闻来源：YouTube\n\n这篇新闻主要讲述了NBA名宿奥尼尔对掘金球员约基奇的看法和幻想，表达了他对篮球的热爱和与约基奇对位的想象。",
+        "image": "https://i10.hoopchina.com.cn/news-editor/cef49cc244544f048a96f24a4386cc42_w_1200_h_1800_.png?x-oss-process=image/resize,w_800/format,webp"
     },
     {
-        "url": "https://bbs.hupu.com/629029084.html",
-        "title": "能否发挥实力？探花谢泼德被JRs评选为本赛季至今“最令人失望”的新秀",
-        "content": "新闻概括：\n\n火箭队的探花秀谢泼德被JRs评选为本赛季至今“最令人失望”的新秀。谢泼德在夏季联赛中表现出色，但进入NBA赛季后表现不佳，场均仅得到3.7分。球迷对谢泼德的期望与他的实际表现产生了落差。此外，其他新秀如克内克特等也受到了关注与讨论。火箭队的其他新秀和整体阵容也是影响谢泼德机会的重要因素。\n\n详细解读：\n\n谢泼德在NBA新秀赛季的表现未能达到预期，仅场均得到3.7分，与他之前在夏季联赛的出色表现形成鲜明对比。这可能部分原因是他尚未适应NBA的比赛强度，也有可能是火箭队的战术安排和整体阵容考虑，使得他未能获得足够的出场时间和机会。另外，球迷的期望与实际表现的差异也导致了对他的失望情绪。\n\n其他新秀如克内克特等也受到了关注。克内克特的表现被一些球迷视为对谢泼德的“最佳表现”的期待。同时，火箭队的其他新秀如塔里等也受到了关注，他们的表现也是影响谢泼德机会的重要因素。火箭队的整体阵容和战术安排也可能影响谢泼德的发展。火箭队追求季后赛席位，可能会对年轻球员的培养有所保留，使得谢泼德等球员难以获得足够的锻炼机会。\n\n总的来说，谢泼德在本赛季的表现确实未能满足部分人的期望，但他的表现并不足以证明他是整个赛季最令人失望的新秀。需要考虑的因素很多，包括球队战术安排、整体阵容以及个人适应情况等等。未来他能否发挥实力还需要看其个人努力、训练以及教练团队的安排。",
-        "image": "https://i10.hoopchina.com.cn/editor/31d0fdd0d4fd4a70441ad0f00561e47c.jpeg?x-oss-process=image/resize,w_800/format,webp"
+        "url": "https://bbs.hupu.com/633823040.html",
+        "title": "[流言板]Ary：正式协议将晚点敲定，但保罗已经做出决定要回到快船",
+        "content": "克里斯-保罗计划加盟洛杉矶快船，虽然正式协议将在自由球员市场稍晚一些敲定，但保罗已经做出了决定，这场期待已久的重逢正在逐步实现。目前没有其他名记确定该消息。",
+        "image": "https://i3.hoopchina.com.cn/news-editor/8d46a866c8258a0183f8d80256f8e5d9_w_1079_h_721_.png?x-oss-process=image/resize,w_800/format,webp"
     },
     {
-        "url": "https://bbs.hupu.com/629043726.html",
-        "title": "追梦：沃特斯表现非常出色，小佩顿能为球队带来独特价值",
-        "content": "德雷蒙德-格林在勇士与老鹰的比赛中接受了采访，对球队的表现进行了评价。他认为林迪-沃特斯表现出色，具备比赛意识，知道自己在场上的位置和任务。对于失去梅尔顿的影响，格林表示其他球员能够胜任防守任务，如林迪防守特雷-杨时的表现。威金斯是球队的重要外线防守者之一，今年在防守和得分方面都有出色表现。面对挡拆和二打一的局面时，格林强调要随机应变，做出最有侵略性的决定。小佩顿在防守端的破坏力很强，对球队未来有很大的帮助，他带来独特的价值。",
-        "image": "https://i10.hoopchina.com.cn/news-editor/2024-11-21/15-54-44/06b20392-1e8a-40b7-995d-439d0fa0757d.jpeg?x-oss-process=image/resize,w_800/format,webp"
+        "url": "https://www.dongqiudi.com/articles/5250237.html",
+        "title": "阿森纳季前巡回赛大名单：新援凯帕、内尔高、苏比门迪均在列",
+        "content": "阿森纳季前巡回赛大名单公布，包括新援凯帕、内尔高、苏比门迪等人在内。球队将前往新加坡对阵米兰和纽卡斯尔联，之后在香港对阵托特纳姆热刺。门将、后卫、中场和前锋等多个位置均有球员入选。",
+        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/89/D5/rBUC6Gh7zSKAZzYsAAJ2RpDdIOk734.jpg?watermark/1/image/aHR0cHM6Ly9pbWcxLmRvbmdxaXVkaS5jb20vZmFzdGRmczIvTTAwLzJBL0UyLzE3NHgtLy0vLS9DaE9xTTFvUy1lV0FQRHEzQUFCQTVVZ3JCVDgxNDIucG5n/dissolve/100/dx/20/dy/10"
     },
     {
-        "url": "https://www.dongqiudi.com/articles/4694171.html",
-        "title": "太阳报：阿莫林认为曼联阵容太臃肿；训练时一直强调加快节奏",
-        "content": "太阳报报道，曼联主教练阿莫林认为球队阵容过于臃肿，并在训练中强调加快节奏。报道引发了球迷的讨论，有人认为球队中存在一些表现不佳的球员，需要加快节奏来提升球队表现。但具体的新闻内容需要关注权威体育媒体的后续报道。",
-        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/CF/E2/rBUBsmc-4SiAPJedAAGiks9TriY621.jpg"
+        "url": "https://www.dongqiudi.com/articles/5250248.html",
+        "title": "镜报：桑乔已经与尤文图斯达成协议，年薪为600万欧元",
+        "content": "镜报报道，桑乔已与尤文图斯达成协议，年薪为600万欧元。据悉，尤文图斯为桑乔提供了一份为期四年、年薪600万欧元的合同，双方在薪资与合同期限上已达成一致。尤文图斯计划满足曼联对这笔交易的要价2500万欧元，包括部分附加条款和可能涉及的遣散费用。目前，双方正在就转会的最后细节进行敲定。",
+        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/89/D0/rBUC6Gh7y_iAKXZ2AAELIf3f7jg807.jpg?watermark/1/image/aHR0cHM6Ly9pbWcxLmRvbmdxaXVkaS5jb20vZmFzdGRmczIvTTAwLzJBL0UyLzE1MHgtLy0vLS9DaE9xTTFvUy1lV0FQRHEzQUFCQTVVZ3JCVDgxNDIucG5n/dissolve/100/dx/18/dy/10"
     },
     {
-        "url": "https://www.dongqiudi.com/articles/4694091.html",
-        "title": "前斯旺西球员因持刀抢劫致人瘫痪，被判四年零四个月监禁",
-        "content": "前斯旺西足球队的某球员因持刀抢劫导致受害人瘫痪，最近被判四年零四个月监禁。此消息引起球迷的广泛关注和热议。有人质疑为何犯罪者只被判这么短的刑期，对受害者及其家属来说是否公平。",
-        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/CF/DF/rBUBsmc-1vCAW3gIAADRchLA5vU228.jpg"
+        "url": "https://www.dongqiudi.com/articles/5250234.html",
+        "title": "利物浦即将对埃基蒂克送出总价值为9000万的报价",
+        "content": "利物浦即将对法国前锋埃基蒂克送出更高的转会报价。据记者Sacha Tavolieri报道，利物浦的报价总价值为9000万。尽管最初有1亿欧元的传言，但实际上法兰克福已经拒绝了利物浦的首份报价。预计利物浦的第二份报价将在数小时内送达，并可能将基础报价提高到8000万欧元，附加1000万欧元的浮动条款。一些球迷对此表示质疑，认为这笔钱可以用来追求其他更有实力的球员。",
+        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/89/C4/rBUC6Gh7ycWAW7mYAAEh_ItVV9s026.jpg?watermark/1/image/aHR0cHM6Ly9pbWcxLmRvbmdxaXVkaS5jb20vZmFzdGRmczIvTTAwLzJBL0UyLzEwMngtLy0vLS9DaE9xTTFvUy1lV0FQRHEzQUFCQTVVZ3JCVDgxNDIucG5n/dissolve/100/dx/12/dy/10"
     },
     {
-        "url": "https://www.dongqiudi.com/articles/4694035.html",
-        "title": "罗德里：去颁奖典礼时没准备演讲稿，用心说话真情就会流露",
-        "content": "罗德里参加颁奖典礼时并未准备演讲稿，他表示用心说话真情就会自然流露。新闻中提到了他的真诚和谦逊，以及他在颁奖典礼上的表现。",
-        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/D4/12/rBUC6Gc-3EeAQvMBAACVCatQJ0s253.jpg"
+        "url": "https://www.dongqiudi.com/articles/5250174.html",
+        "title": "阿莫林对曼联转会效率不满，希望巡回赛前签下所有目标",
+        "content": "镜报报道，曼联主教练阿莫林对俱乐部的转会效率表示不满，他希望能在球队季前巡回赛之前签下所有目标球员。曼联即将飞往美国，其中新援姆贝乌莫已达成协议将加盟球队。尽管曼联迅速确认了狼队球员马特乌斯-库尼亚的签约，但其他引援进展缓慢。阿莫林希望尽快签下新球员以推动球队重建，但目前仍有五名球员待出售，影响了引援进度。此外，阿莫林还希望引入一名有创造力的中场球员和一名经验丰富的射手。他强调所有目标球员必须在季前巡回赛前签约，以便他们适应球队要求并融入新环境。目前，球迷和足球界对阿莫林的耐心正在逐渐消磨殆尽。",
+        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/89/AA/rBUC6Gh7xaaAIQakAAEASpHqBq0187.jpg?watermark/1/image/aHR0cHM6Ly9pbWcxLmRvbmdxaXVkaS5jb20vZmFzdGRmczIvTTAwLzJBL0UyLzIwMHgtLy0vLS9DaE9xTTFvUy1lV0FQRHEzQUFCQTVVZ3JCVDgxNDIucG5n/dissolve/100/dx/24/dy/10"
     },
     {
-        "url": "https://www.dongqiudi.com/articles/4694174.html",
-        "title": "世体：莱奥依然在巴萨的引援名单上，球员也愿意加盟",
-        "content": "新闻概括：据世体报道，莱奥仍在巴塞罗那的引援名单上，并且该球员也有意加盟。尽管有此传闻，但具体的转会细节和进展尚未公布。",
-        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/CF/E3/rBUBsmc-5KaAbwoxAACijbLlMT8427.jpg"
+        "url": "https://www.dongqiudi.com/articles/5249685.html",
+        "title": "拉什福德将租借加盟巴萨，含买断条款",
+        "content": "拉什福德将租借加盟巴塞罗那足球俱乐部，这一消息由知名转会专家罗马诺透露。转会形式为租借加买断选项。拉什福德是曼联青训培养出的球员，曾有过高光时刻，但近年来状态有所起伏。此次转会消息引起球迷和媒体广泛关注，部分人对拉什福德离开曼联感到失落，但也希望他能在巴塞罗那找回状态。此外，人们也对这次转会的其他细节和后续发展保持关注。",
+        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/88/D1/rBUC6Gh7pp2AWRjtAAgyh0brmhE275.jpg?watermark/1/image/aHR0cDovL2ltZzEuZG9uZ3FpdWRpLmNvbS9mYXN0ZGZzMi9NMDAvMkEvRTIvQ2hPcU0xb1MtZVdBUERxM0FBQkE1VWdyQlQ4MTQyLnBuZw==/dissolve/100/ws/0.045"
     },
     {
-        "url": "https://www.dongqiudi.com/articles/4694144.html",
-        "title": "加泰电台：梅西将参加巴萨125周年庆典，并将担任重要角色",
-        "content": "新闻概括：加泰电台报道，梅西将参加巴萨的125周年庆典，并且在庆典中担任重要角色。动态引起球迷热议，尽管有球迷认为梅西不可能以球员身份回归，但仍期待他能在冬窗回归诺坎普。",
-        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/D4/13/rBUC6Gc-4DSAJxfvAAC3JeOSEmQ876.jpg"
+        "url": "https://www.dongqiudi.com/articles/5250173.html",
+        "title": "罗德里戈决定离队，巴萨将开启转会谈判",
+        "content": "新闻概括：据巴媒UOL报道，如果巴西前锋罗德里戈决定离开皇马，巴萨将愿意开启转会谈判。罗德里戈目前在皇马逐渐失去主力位置，对此他希望能在左路获得更多的出场机会。巴萨正在寻求一名左边锋，罗德里戈可能成为他们的目标。此外，随着皇马新星的加入，前场竞争愈发激烈。",
+        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/89/A1/rBUC6Gh7xCCAb-pqAAFQOMrAhkI907.jpg?watermark/1/image/aHR0cDovL2ltZzEuZG9uZ3FpdWRpLmNvbS9mYXN0ZGZzMi9NMDAvMkEvRTIvQ2hPcU0xb1MtZVdBUERxM0FBQkE1VWdyQlQ4MTQyLnBuZw==/dissolve/100/ws/0.045"
     },
     {
-        "url": "https://www.dongqiudi.com/articles/4694035.html",
-        "title": "罗德里：去颁奖典礼时没准备演讲稿，用心说话真情就会流露",
-        "content": "罗德里参加颁奖典礼时并未准备演讲稿，他表示用心说话真情就会自然流露。新闻提到罗德里在颁奖典礼上的表现受到好评，有评论认为他的真诚是实至名归的金球奖的表现。",
-        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/D4/12/rBUC6Gc-3EeAQvMBAACVCatQJ0s253.jpg"
+        "url": "https://www.dongqiudi.com/articles/5250005.html",
+        "title": "马卡：拉什福德买断费从5000万欧降至3500万欧，巴萨砍价成功",
+        "content": "新闻概括：据《马卡报》报道，拉什福德从曼联转会至巴塞罗那的交易进展迅速。原本曼联要求5000万欧元的买断费，但巴萨砍价至3500万欧元。拉什福德将以租借方式加盟巴萨，并附带买断选项。谈判深入，球员已同意降薪以完成转会。此交易的关键是曼联最终同意了租借方式。",
+        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/89/71/rBUC6Gh7vd-AKsjyAAO5zm64dVs288.jpg?watermark/1/image/aHR0cHM6Ly9pbWcxLmRvbmdxaXVkaS5jb20vZmFzdGRmczIvTTAwLzJBL0UyLzI3MXgtLy0vLS9DaE9xTTFvUy1lV0FQRHEzQUFCQTVVZ3JCVDgxNDIucG5n/dissolve/100/dx/32/dy/11"
     },
     {
-        "url": "https://www.dongqiudi.com/articles/4693951.html",
-        "title": "瞄准欧冠冠军？弗里克已在日程表上标注了欧冠决赛日期",
-        "content": "新闻概括：\n\n拜仁主教练弗里克已在日程表上标注了欧冠决赛日期，引发球迷热议。有球迷认为他野心勃勃，瞄准欧冠冠军；但也有人担忧球队后防线和门将的不稳定问题。此外，评论中也提到了其他球队的动态和预测，但具体的新闻内容应以官方报道为准。",
-        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/CF/D9/rBUBsmc-w-aAHktVAAW6i3039Xo254.jpg"
+        "url": "https://www.dongqiudi.com/articles/5249974.html",
+        "title": "TA：巴萨还看中了拉什福德的国际影响力，进一步拉动球衣销量",
+        "content": "新闻概括：巴塞罗那足球俱乐部（巴萨）已经与曼联达成协议，将租借英格兰边锋拉什福德，并附带买断选项。拉什福德预计将在未来数小时内抵达巴塞罗那，并接受相关的体检。除了他的技术和身体素质，巴萨还看中了他的国际影响力，认为他的加盟将能够拉动球衣销量。拉什福德将在本周亮相，并可能随巴萨参加亚洲巡回赛。此前有报道称，拉什福德为了穿上巴萨的球衣而放弃了他相当大一部分的薪水。",
+        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/89/60/rBUC6Gh7u2OAGu1rAAIe3RKPYZ4888.jpg?watermark/1/image/aHR0cHM6Ly9pbWcxLmRvbmdxaXVkaS5jb20vZmFzdGRmczIvTTAwLzJBL0UyLzIyN3gtLy0vLS9DaE9xTTFvUy1lV0FQRHEzQUFCQTVVZ3JCVDgxNDIucG5n/dissolve/100/dx/27/dy/10"
     },
     {
-        "url": "https://www.dongqiudi.com/articles/4693913.html",
-        "title": "塞维利亚官方：12月23日客战皇马将是纳瓦斯职业生涯的告别战",
-        "content": "塞维利亚官方宣布，12月23日客场对皇马的比赛将是纳瓦斯职业生涯的告别战。纳瓦斯将在该比赛中结束他的职业生涯。据报道，球迷对此表示祝福，称赞纳瓦斯在欧洲杯的表现。这是他职业生涯的重要时刻，也是他走向告别的一步。",
-        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/CF/D8/rBUBsmc-wYOAM5ksAALttdd3VnU616.jpg"
+        "url": "https://www.dongqiudi.com/articles/5250248.html",
+        "title": "镜报：桑乔已经与尤文图斯达成协议，年薪为600万欧元",
+        "content": "概括总结如下：据《镜报》报道，桑乔已经与尤文图斯达成协议，年薪为600万欧元。尤文图斯为桑乔提供了一份为期四年、年薪600万欧元的合同，双方在薪资与合同期限上已达成一致。尤文图斯计划满足曼联对桑乔的要价，目前双方正在就转会的最后细节进行敲定。",
+        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/89/D0/rBUC6Gh7y_iAKXZ2AAELIf3f7jg807.jpg?watermark/1/image/aHR0cHM6Ly9pbWcxLmRvbmdxaXVkaS5jb20vZmFzdGRmczIvTTAwLzJBL0UyLzE1MHgtLy0vLS9DaE9xTTFvUy1lV0FQRHEzQUFCQTVVZ3JCVDgxNDIucG5n/dissolve/100/dx/18/dy/10"
     },
     {
-        "url": "https://www.dongqiudi.com/articles/4693845.html",
-        "title": "英媒：阿森纳球探到现场考察了西班牙国脚巴埃纳的表现",
-        "content": "阿森纳球探现场考察了西班牙国脚巴埃纳的表现。巴埃纳在黄潜马塞利诺的442体系下主要担任右边前卫，起到边路爆点的作用。同时，他也能胜任前腰或二前锋位置，展现出更大的威胁。在国家队，他扮演典型的“西班牙式”边前卫角色，防守任务较轻，但串联作用非常重要。",
-        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/CF/D4/rBUBsmc-tzmAI5DZAAGvnyuCyyo936.jpg"
+        "url": "https://www.dongqiudi.com/articles/5250201.html",
+        "title": "亚沙里未入选比利时超级杯大名单，米兰和布鲁日拉扯37天",
+        "content": "亚沙里未入选比利时超级杯大名单，米兰和布鲁日就他的转会已经拉扯了37天。亚沙里是布鲁日的中场球员，未入选对阵圣吉罗斯联合的比利时超级杯大名单。此前有报道称亚沙里已经和米兰就个人条款达成协议，但目前尚未完成转会。米兰已经先后签下了萨穆埃莱-里奇和莫德里奇两位新援。",
+        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/E2/30/rBUBsmhL_PyAPXyhAAEdyqrmceI591.jpg?watermark/1/image/aHR0cHM6Ly9pbWcxLmRvbmdxaXVkaS5jb20vZmFzdGRmczIvTTAwLzJBL0UyLzE2MHgtLy0vLS9DaE9xTTFvUy1lV0FQRHEzQUFCQTVVZ3JCVDgxNDIucG5n/dissolve/100/dx/19/dy/10"
     },
     {
-        "url": "https://www.dongqiudi.com/articles/4693801.html",
-        "title": "世预赛南美区创造绝佳机会榜：J罗8次居首，梅西、德保罗第二",
-        "content": "新闻概括：世预赛南美区创造绝佳机会榜发布，J罗以8次居首，梅西和德保罗紧随其后。该新闻强调严禁商业机构或公司转载，并要求球迷转载时注明来源“懂球帝”。",
-        "image": "https://bdimg6.qunliao.info/fastdfs7/M00/D4/05/rBUC6Gc-thSAD6o7AAHLZZMkeA0874.jpg"
+        "url": "https://sports.ifeng.com/c/8l6lTmE4RuJ",
+        "title": "前国乒名将：王楚钦奥运会前状态很好，正手杀伤力超强",
+        "content": "前国乒名将周雨在直播时表示，王楚钦在巴黎奥运会前的状态非常好。他分析道，王楚钦的线路选择出色，整体站位非常浅，防守中主要是进攻而非稳防。王楚钦的反手进攻非常迅速，能够迅速反应并给对手施加压力。虽然他在巴黎奥运会男单比赛中不敌瑞典名将莫雷加德，止步32强，但此后已多次成功复仇并拿下多个重要赛事的男单冠军。",
+        "image": "//x0.ifengimg.com/res/2025/82F70FF1ED508B2D22A47F45E6E49274E0EFB6FE_size112_w960_h650.jpg"
     },
     {
-        "url": "https://sports.sina.com.cn/basketball/nba/2024-11-13/doc-incvxars2351011.shtml",
-        "title": "库里39分汤神对阵老东家22分 勇士险胜独行侠",
-        "content": "新闻概括：\n\n勇士队与独行侠队的NBA比赛于北京时间11月13日进行，最终勇士队以120-117险胜。本场比赛中，勇士队球星库里表现出色，得到39分，并在关键时刻连砍12分帮助勇士锁定胜局。而克雷-汤普森对阵老东家勇士得到22分。独行侠队的东契奇得到31分，欧文也有出色表现。在比赛过程中，双方经历了领先与反超的多次交替，最终勇士队以微弱的优势险胜对手。",
-        "image": "//k.sinaimg.cn/n/sports/transform/662/w650h812/20241113/bcef-4fb5e75928d4a57947a2ed1fc01de9ec.jpg/w700d1q75cms.jpg?by=cms_fixed_width"
+        "url": "https://sports.ifeng.com/c/8l6KYM4VWhv",
+        "title": "又输！0-3完败欧洲劲旅：中国男排8连败，深陷低谷，海宁面无表情",
+        "content": "中国男排在世界男排联赛中0-3完败于保加利亚男排，遭遇了八连败。比赛过程中，中国队与对手打得十分胶着，但在关键时刻未能把握住机会，导致连败。目前，中国男排深陷低谷，需要尽快调整状态。",
+        "image": "//x0.ifengimg.com/res/2025/BE0F6A5AE7235BB7D7EB1B95ACBA30CF6608BD82_size29_w640_h434.jpg"
     },
     {
-        "url": "https://sports.sina.com.cn/g/pl/2024-11-11/doc-incvrxpn8895570.shtml",
-        "title": "英超-马丁内利破门内托扳平 切尔西1-1阿森纳",
-        "content": "新闻概括：\n\n在英超第11轮比赛中，切尔西主场迎战阿森纳，最终双方1-1战平。比赛第60分钟，马丁内利破门得分，第70分钟，内托扳平比分。双方的首发球员也各有特点。本场比赛中，厄德高为阿森纳贡献了妙传，而马丁内利和内托的进球成为比赛的关键。",
-        "image": "//k.sinaimg.cn/n/sports/transform/272/w650h422/20241111/cbdd-41e6c87488f5b953cf630e68ad82eae1.png/w700d1q75cms.jpg?by=cms_fixed_width"
+        "url": "https://sports.ifeng.com/c/8l6GApGclVh",
+        "title": "日本男排完败！0-3不敌巴西引发排名大跌",
+        "content": "日本男排在一场世界男排联赛中遭遇完败，以0-3的比分不敌巴西男排，这是日本队在本届赛事中的第四场失利。由于积分被扣除，日本队的世界排名将受到影响。日本男排是亚洲排坛的顶尖力量，近期表现出强劲的竞技状态，但面对实力强劲的巴西队，他们未能延续胜利势头。巴西男排作为奥运会冠军，展现出强大的实力，豪取八胜一负的佳绩。比赛中，日本队虽然一度与巴西队形成僵持，但在关键球把握能力上不及对手，最终输掉比赛。",
+        "image": "//x0.ifengimg.com/res/2025/DF0DA98139CAA40A64690F9B401755C6DC9765AB_size506_w687_h382.png"
     },
     {
-        "url": "https://sports.sina.com.cn/basketball/nba/2024-11-05/doc-incuyvpf1246559.shtml",
-        "title": "KD35分太阳险胜76人5连胜 快船逆转马刺止连败",
-        "content": "概括新闻内容：\n\n太阳队以杜兰特等球员的出色表现，险胜76人队，取得五连胜。乔治复出后表现欠佳，但马克西发挥出色。快船逆转战胜马刺，结束三连败。第一节马刺发挥出色取得较大优势，但最终快船实现反超取得胜利。",
-        "image": "//k.sinaimg.cn/n/sports/transform/662/w650h812/20241105/dd19-21484f101d271491d28b70fd456e0266.jpg/w700d1q75cms.jpg?by=cms_fixed_width"
+        "url": "https://sports.ifeng.com/c/8l6CRkYflji",
+        "title": "国乒教练李隼：孙颖莎备战奥运，每天练100个伊藤美诚够不到的球",
+        "content": "国乒教练李隼表示，孙颖莎为了备战奥运，每天需要练习特定的球技，专门针对伊藤美诚的训练，每天练习够不到的球达到100个。这些训练是为了让孙颖莎能够在比赛中有效地对抗伊藤美诚的挑战。李隼强调，运动员的训练过程非常艰辛，需要封闭训练，与外界相对隔绝。",
+        "image": "//x0.ifengimg.com/res/2025/B39F1A65331AD73B3E793CB1772576A4DA0A80FE_size30_w600_h400.jpg"
     },
     {
-        "url": "https://sports.sina.com.cn/china/j/2024-11-02/doc-incuskrw5278624.shtml",
-        "title": "中超-武磊独造5八球 海港5-0津门虎卫冕夺冠",
-        "content": "新闻概括：在最近一场中超比赛中，上海海港队主场迎战天津津门虎队。海港队球员武磊表现出色，独造5球，帮助海港队以5-0大胜津门虎队。海港队因此领先申花队1分，成功卫冕夺得中超冠军。",
-        "image": "//k.sinaimg.cn/n/sports/transform/283/w650h433/20241102/f628-168cb127405fd000c6a260f478fd3985.jpg/w700d1q75cms.jpg?by=cms_fixed_width"
-    },
-    {
-        "url": "https://sports.ifeng.com/c/8egKrfGxYaQ",
-        "title": "国乒单日连输日本3次！69岁教头发文：寒冬来得比预想要快",
-        "content": "国乒在WTT福冈总决赛首个比赛日连输日本队三场，男单和女双均告失利。老教练吴敬平发文称“寒冬来得比预想要快”，暗示国乒统治力下滑。中国乒乓球队在亚锦赛上的表现也惨淡，梯队建设存在问题，主力运动员受伤和状态不佳。若主要运动员离开，国乒将面临巨大的挑战。虽然历史上曾有一些杰出球员如张继科、马龙和樊振东，但未来仍需新人才来支撑国乒大旗。",
-        "image": "//x0.ifengimg.com/res/2024/2DA0586CB0793A8918BF4D23F76FB491DD2BD017_size20_w640_h388.jpg"
-    },
-    {
-        "url": "https://sports.ifeng.com/c/8efoSM3umKR",
-        "title": "国乒一日五败！男单首日全军覆没",
-        "content": "国乒在WTT福冈总决赛首日遭遇重大挫折，男单选手梁靖崑和林高远相继失利，女双和男双在1/4决赛中也未能晋级。只有女单选手钱天一和王艺迪取得胜利。总体来说，国乒一日五败，男单首日全军覆没。",
-        "image": "//x0.ifengimg.com/ucms/2024_47/60AADC87A885CB1B4C3D31B5E41600EAA2FC1602_size207_w1600_h1067.jpg"
-    },
-    {
-        "url": "https://sports.ifeng.com/c/8efnvOo7ilQ",
-        "title": "国乒对日本三战全败，不如国足1-3",
-        "content": "今日国乒在与日本的比赛中表现不佳，三场比赛全部失利。媒体人贺晓龙对此表示，国乒的表现比国足还要差，国足昨天虽然也输球了，但比分至少是1比3。具体比赛结果如下：梁靖崑1比3不敌张本智和，孙颖莎/王艺迪组合1比3输给佐藤瞳/桥本帆乃香组合，林高远/林诗栋组合则以0比3完败于户上隼辅/篠塚大登组合。",
-        "image": "//x0.ifengimg.com/res/2024/4C964CA34EBA82DDDEBDC5635E93CA99B4DDB34D_size30_w640_h370.jpg"
-    },
-    {
-        "url": "https://sports.ifeng.com/c/8efno88VXhg",
-        "title": "国乒又输外战！林诗栋/林高远0-3不敌日本组合，一轮游，无缘四强",
-        "content": "国乒男双林高远和林诗栋在WTT福冈年终总决赛中遭遇日本组合户上隼辅/篠塚大登。虽然国乒组合实力占优，但最终连输三局，以0比3不敌对手，遭遇一轮游，无缘四强。此前，女双组合孙颖莎和王艺迪也遭遇一轮游，因此国乒需警惕。比赛过程中，日本组合表现出色，成功晋级四强。",
-        "image": "//x0.ifengimg.com/res/2024/19453F7F54D1A867DB181B9E8E03C5925C322074_size45_w640_h362.jpg"
-    },
-    {
-        "url": "https://sports.ifeng.com/c/8eflfSDQOkv",
-        "title": "孙颖莎/王艺迪1-3不敌日本组合，无缘WTT福冈总决赛女双四强",
-        "content": "孙颖莎和王艺迪在WTT福冈总决赛女双1/4决赛中，以1-3不敌日本的佐藤瞳和桥本帆乃香组合，无缘女双四强。经过四局激战，中国组合虽在第三局扳回一局，但最终未能逆袭，日本组合以3-1获胜，成功晋级下一轮。",
-        "image": "//x0.ifengimg.com/res/2024/CD49EE293B2512468DB3D33A5B638E1C308EBAD3_size32_w640_h335.jpg"
-    },
-    {
-        "url": "https://www.sohu.com/a/828739899_463728",
-        "title": "日媒：中国队遭双杀却非常乐观 从舆论看感觉是他们赢了",
-        "content": "新闻概括：世预赛亚洲区18强赛第6轮，国足主场1-3不敌日本。尽管输球，但中国队的球员、专家和媒体人并未表现出消极情绪，反而有乐观态度。日本队在C组积分榜上领先，而国足小组垫底。接下来四轮比赛将是关键，将决定各队的生死。",
-        "image": "//q9.itc.cn/q_70/images01/20241121/728fb646bf11486c815a513f4e9339de.jpeg"
-    },
-    {
-        "url": "https://www.sohu.com/a/828737238_121434717",
-        "title": "国乒一日五败，福冈总决赛遭遇噩梦开局_高远和_梁靖崑_张本",
-        "content": "国乒在WTT福冈总决赛首日遭遇一日五败。男双世界第一组合袁励岑/向鹏在男双比赛中不敌新加坡组合冯耀恩/郭勇。林高远和梁靖崑在男单比赛中分别输给斯洛文尼亚选手约奇克和日本选手张本智和。此外，女双孙颖莎/王艺迪也输给了日本组合佐藤瞳/桥本帆乃香。幸运的是，女单选手钱天一和王艺迪成功晋级八强。",
-        "image": "//q6.itc.cn/c_lfill,w_390,h_260,g_face/images01/20241121/50721696265348c5ae9eeb857b601d9a.jpeg"
-    },
-    {
-        "url": "https://www.sohu.com/a/828668114_461606",
-        "title": "中国男篮12人大名单：胡明轩杨瀚森领衔 徐杰缺席_对阵_关岛_程帅澎",
-        "content": "新闻概括：中国男篮对阵关岛的12人大名单已经公布，包括高诗岩、曾凡博、胡明轩等知名球员，而徐杰等人则未入选。本次比赛将在近期进行。",
-        "image": "//q0.itc.cn/q_70/images01/20241120/73fb20c9ffa4417096933698aca2028d.jpeg"
-    },
-    {
-        "url": "https://www.sohu.com/a/828850018_121284943",
-        "title": "WTT福冈总决赛：孙颖莎爆冷无缘女单八强",
-        "content": "新闻概括：在WTT福冈总决赛女单八分之一决赛中，中国乒乓球选手孙颖莎在国乒内战中以比分二比三不敌队友陈幸同，因此无缘八强。",
-        "image": "//q6.itc.cn/c_lfill,w_390,h_260,g_face/images01/20241121/50721696265348c5ae9eeb857b601d9a.jpeg"
+        "url": "https://sports.ifeng.com/c/8l4DyYf4jUm",
+        "title": "第十八届国际先进机器人及仿真技术大赛体育与运动仿真组国赛在上海体育大学成功举办",
+        "content": "第十八届国际先进机器人及仿真技术大赛体育与运动仿真组国赛于2025年7月14日至7月16日在上海体育大学成功举办。本次大赛由中国仿真学会主办，上海体育大学承办。来自全国25所高校、64支队伍、共250余人参赛。在比赛期间，举办了开幕式、圆桌论坛、学科竞赛研讨会等活动。比赛结果经过作品展示、现场答辩等环节，共评出一等奖12项、二等奖19项、三等奖33项。这次大赛展示了各参赛队伍的高水平创新能力，促进了学术界与产业界的深度融合，为科技发展奠定基础。",
+        "image": "//x0.ifengimg.com/ucms/2025_29/141792B0455AE852855BF7DBE728B333C0DDFA13_size162_w1269_h649.jpg"
     }
 ]
